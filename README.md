@@ -47,35 +47,24 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/stablecoins-analysis.git
+    git clone [https://github.com/yourusername/stablecoins-analysis.git](https://github.com/SyntagmaLabs/Stable-Coins.git)
     cd stablecoins-analysis
     ```
 
 2. **Install the required Python packages:**
 
-    Ensure you have Python 3.x installed. You can install the required packages using:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+    Ensure you have Python 3.x installed. 
 
     _Note:_ If you're running the notebook in Google Colab, the required packages can be installed in the notebook itself.
 
 ## Usage
 
-1. **Data Collection:**
+**Data Collection:**
 
     Before running the analysis, make sure to collect the necessary data from the aforementioned sources. Ensure that your API keys (if needed) are correctly set up.
 
-2. **Running the Notebook:**
 
-    You can run the Jupyter notebook using the following command:
-
-    ```bash
-    jupyter notebook stablecoins.ipynb
-    ```
-
-3. **Visualizations:**
+**Visualizations:**
 
     The notebook contains several visualizations using `Matplotlib`, `Seaborn`, and `Plotly`. Ensure these libraries are installed and run the notebook cells to generate the visualizations.
 

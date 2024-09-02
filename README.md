@@ -14,8 +14,6 @@ This project provides an in-depth analysis of stablecoins using various blockcha
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Results and Visualizations](#results-and-visualizations)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
@@ -89,14 +87,3 @@ The results section of the notebook provides various insights into the stablecoi
 - **Transaction Activity:** Analysis of transaction volumes and their trends.
 - **Reserve Analysis:** Breakdown of stablecoin reserves and their security.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like any changes or additional details added!
